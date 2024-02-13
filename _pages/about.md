@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lingxiao Guo(郭凌霄)"
+title: "Lingxiao Guo(郭凌霄"
 author_profile: true
 redirect_from: 
   - /about/
